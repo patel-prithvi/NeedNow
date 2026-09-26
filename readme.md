@@ -2,6 +2,8 @@
 
 > **Need it? Just say it.**
 
+Full Project - https://github.com/Ahmadhaiwala/NeedNow
+
 NeedNow is an AI-powered shopping assistant that understands your intent instead of forcing you to search for products manually.
 
 Whether you're cooking dinner, setting up a gaming PC, preparing for an exam, planning a birthday, dealing with an emergency, or simply running low on groceries, NeedNow asks intelligent follow-up questions, understands your situation, and automatically creates the perfect shopping cart.
